@@ -5,8 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class UiController : MonoBehaviour
 {
- public void NewGame()
- {
-  SceneManager.LoadScene("SampleScene");
- }
+  public void NewGame()
+  {
+     SceneManager.LoadScene("ErickTest");
+  }
 }
